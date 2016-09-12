@@ -1,4 +1,4 @@
-package thead.base;
+package thread.base;
 
 import java.io.File;
 import java.io.FileWriter;

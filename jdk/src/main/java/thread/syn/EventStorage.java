@@ -1,4 +1,4 @@
-package thead.syn;
+package thread.syn;
 
 import java.util.Date;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package thead.lock;
+package thread.lock;
 
 public class Job implements Runnable {
 	private PrintQueue printQueue;

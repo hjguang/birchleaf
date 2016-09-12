@@ -1,4 +1,4 @@
-package thead.syn;
+package thread.syn;
 
 public class Producer implements Runnable {
 	private EventStorage storage;
