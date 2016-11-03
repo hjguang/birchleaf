@@ -23,11 +23,16 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring-version}</version>
 		</dependency>
-		
 	</dependencies>
+	
+	<build></build>
+	
 	<modules>
 		<module>spring</module>
 		<module>jdk</module>
 		<module>rpc</module>
+		<module>lucene</module>
+		<module>activemq</module>
+		<module>test</module>
 	</modules>
 </project>
