@@ -1,4 +1,4 @@
-package org.spring.aop;
+package org.spring.service;
 
 public interface ObjService {
 
