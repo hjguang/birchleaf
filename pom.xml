@@ -46,6 +46,7 @@
 				<artifactId>curator-examples</artifactId>
 				<version>${curator-version}</version>
 			</dependency>
+
 		</dependencies>
 	</dependencyManagement>
 	<build></build>
@@ -57,5 +58,6 @@
 		<module>lucene</module>
 		<module>activemq</module>
 		<module>test</module>
-	</modules>
+        <module>mq</module>
+    </modules>
 </project>
